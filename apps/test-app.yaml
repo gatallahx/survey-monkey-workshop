@@ -7,7 +7,7 @@ spec:
   project: default
   source:
     path: test-app
-    repoURL: https://github.com/example/repo
+    repoURL: https://github.com/gatallahx/survey-monkey-workshop
     directory:
       include: "*.yaml"
   destination:
